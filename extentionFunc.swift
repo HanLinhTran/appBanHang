@@ -1,7 +1,5 @@
 //
 //
-//  Created by datnguyen on 12/17/16.
-//  Copyright © 2016 datnguyen. All rights reserved.
 //
 
 import Foundation
